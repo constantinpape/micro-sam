@@ -5,6 +5,8 @@
 
 # Segment Anything for Microscopy
 
+Random stuff
+
 **Attention: We are currently updating our software to a new release that will improve it and introduce new features. The documentation is not up-to-date with these changes yet, we will update it as soon as possible!**
 
 Tools for segmentation and tracking in microscopy build on top of [Segment Anything](https://segment-anything.com/).
